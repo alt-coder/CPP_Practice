@@ -28,7 +28,7 @@ A = 3, B = 4
 
 #include <bits/stdc++.h>
 using namespace std;
-
+// find function
 vector<long int> find(const vector<int> &A){
     long count = 1,sum=0,sqrSum=0;
     long a;
